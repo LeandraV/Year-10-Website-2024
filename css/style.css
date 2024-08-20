@@ -61,15 +61,15 @@ nav li a{
 }
 
 nav li:hover{
-  background-color: orangered;
+  background-color: cornflowerblue;
 }
 
 nav #active{
-  background-color: darkgreen;
+  background-color: rebeccapurple;
 }
 
 h1 {
-color: darkblue;
+color:lightgoldenrodyellow;
 font-family: "brush script mt" cursive;
 font-size: 40px;
 font-weight: bold;
